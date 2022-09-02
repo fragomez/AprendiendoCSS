@@ -1,5 +1,17 @@
 /* CSS de @SoyDalto */
-/* Selectores: Selector Universal (*) */
-*{
+/* Selectores: Selector de  tipo (etiquetas) */
+h1{
     color: red; /* El código en hexadecimal es #f00 */
+}
+h2{
+    color: red;
+}
+button{
+    color: red;
+}
+input{
+    color: red;
+}
+p{
+    color: red;
 }
