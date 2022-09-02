@@ -1,18 +1,7 @@
 /* CSS de @SoyDalto */
-/* Selectores: Selector descendiente (primero el contenedor) */
+/* Selectores: Pseudoclases */
 
-/*h2 p {
+/* Especifidad y descendencia */
+.h2-class b:hover {
     color: red;
-}*/
-
-/* Selector descendiente con clase */
-.h2-class p{
-    color: red;
-}
-.h2-class span{
-    color: blue;
-}
-
-h2 b {
-    color: green;
 }
