@@ -1,1 +1,5 @@
 /* CSS de @SoyDalto */
+/* Selectores: Selector Universal (*) */
+*{
+    color: red; /* El código en hexadecimal es #f00 */
+}
