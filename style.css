@@ -1,6 +1,18 @@
 /* CSS de @SoyDalto */
-/* Selectores: Selector por atributo ([atributo="valor"]) */
+/* Selectores: Selector descendiente (primero el contenedor) */
 
-[suscribiteAlCanal="sii"]{
+/*h2 p {
     color: red;
+}*/
+
+/* Selector descendiente con clase */
+.h2-class p{
+    color: red;
+}
+.h2-class span{
+    color: blue;
+}
+
+h2 b {
+    color: green;
 }
