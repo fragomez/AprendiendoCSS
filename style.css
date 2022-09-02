@@ -1,5 +1,6 @@
 /* CSS de @SoyDalto */
-/* Selectores: Selector por ID (#id) los ID o identificadores son únicos */
-#element-for-modify{
+/* Selectores: Selector por atributo ([atributo="valor"]) */
+
+[suscribiteAlCanal="sii"]{
     color: red;
 }
