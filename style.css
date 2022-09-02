@@ -1,6 +1,10 @@
 /* CSS de @SoyDalto */
-/* Especificidad (Elementos - Pseudoelementos) */
+/* Especificidad (Clases) */
 
-h1 {
+.color-red {
     color: red;
+}
+
+h1{
+    color: blue;
 }
