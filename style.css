@@ -1,7 +1,6 @@
 /* CSS de @SoyDalto */
-/* Selectores: Pseudoclases */
+/* Especificidad (Elementos - Pseudoelementos) */
 
-/* Especifidad y descendencia */
-.h2-class b:hover {
+h1 {
     color: red;
 }
