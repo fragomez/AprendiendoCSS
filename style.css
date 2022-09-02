@@ -1,5 +1,5 @@
 /* CSS de @SoyDalto */
-/* Selectores: Clases (.clases) */
-.titulo-h2{
+/* Selectores: Selector por ID (#id) los ID o identificadores son únicos */
+#element-for-modify{
     color: red;
 }
