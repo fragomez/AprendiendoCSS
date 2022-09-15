@@ -1,10 +1,10 @@
 /* CSS de @SoyDalto */
-/* Especificidad (!important) */
+/* Unidades de medida (Unidades fijas: pixeles) */
 
-#color-blue{
-    color: blue;
+.contact-form{
+
 }
 
-h1{
-    color: gray !important;
+.contact-form__h2{
+    font-size: 50px;
 }
