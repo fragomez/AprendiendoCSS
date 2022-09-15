@@ -1,5 +1,5 @@
 /* CSS de @SoyDalto */
-/* Propiedades de texto */
+/* Propiedades de texto (importación de fuentes) */
 
 .contact-form{
     font-size: 25px;
@@ -7,6 +7,6 @@
 
 .contact-form__h2{
     font-size: 2em;
-    font-family: sans-serif;
+    font-family: Roboto, sans-serif;
     color: red;
 }
