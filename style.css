@@ -1,13 +1,10 @@
 /* CSS de @SoyDalto */
-/* Especificidad (atributos) */
+/* Especificidad (id) */
+
+#color-blue{
+    color: blue;
+}
 
 .color-red {
     color: red;
-}
-
-h1{
-    color: blue;
-}
-[ranciobich="color-blue"]{
-    color: blue;
 }
