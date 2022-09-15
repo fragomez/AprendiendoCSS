@@ -1,10 +1,10 @@
 /* CSS de @SoyDalto */
-/* Especificidad (id) */
+/* Especificidad (!important) */
 
 #color-blue{
     color: blue;
 }
 
-.color-red {
-    color: red;
+h1{
+    color: gray !important;
 }
